@@ -1,4 +1,12 @@
-### Hi there 👋
+### Buenas! 👋
+## 📈 Estadísticas de GitHub
+
+<a href="https://github.com/luisca343">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisca343&size_weight=0.5&count_weight=0.5&theme=radical" />
+</a>
+<a href="https://github.com/luisca343">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisca343&show_icons=true&theme=radical" />
+</a>
 
 <!--
 **luisca343/luisca343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
